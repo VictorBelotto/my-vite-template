@@ -9,7 +9,7 @@ Para começar a usar este ambiente de desenvolvimento, siga estas simples etapas
 1. Clone este repositório em sua máquina local:
 
     ```bash
-   git clone github.com/VictorBelotto/my-vite-template <nome-do-seu-projeto>
+   git clone  https://github.com/VictorBelotto/my-vite-template <nome-do-seu-projeto>
     ```
 
 2. Navegue até o diretório do projeto:
